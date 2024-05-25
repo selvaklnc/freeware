@@ -1,5 +1,7 @@
 title: Freeware
-
+description: >
+  This is a Jekyll blog using a remote theme.
 remote_theme: wikimint/wmfw
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
