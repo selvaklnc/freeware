@@ -1,2 +1,5 @@
-remote_theme: wikimint/wmfw
 title: Freeware
+
+remote_theme: wikimint/wmfw
+plugins:
+  - jekyll-remote-theme
