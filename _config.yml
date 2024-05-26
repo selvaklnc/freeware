@@ -3,9 +3,19 @@ description: >
   This is a Jekyll blog using a remote theme.
 
 collections:
-  posts:
+  projects:
     output: true
 permalink: /:title
+
+disqus:
+  shortname: freeware-projects
+  
+defaults:
+  - scope:
+      path: "_projects"
+      type: "projects"
+    values:
+      permalink: /:title
 
 remote_theme: wikimint/wmfw
 plugins:
