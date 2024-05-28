@@ -1,6 +1,7 @@
-title: Freeware
+title: Freeware Projects Hub - Discover and Download Free Software
+email: support@wikimint.com
 description: >
-  This is a Jekyll blog using a remote theme.
+  Explore a wide range of free software and open-source projects at Freeware Projects Hub. Download, review, and share top-quality free applications for Windows, Mac, Linux, and more. Join our community of developers and tech enthusiasts today!
 
 collections:
   projects:
@@ -9,13 +10,16 @@ permalink: /:title
 
 disqus:
   shortname: freeware-projects
-  
+
 defaults:
   - scope:
       path: "_projects"
       type: "projects"
     values:
       permalink: /:title
+      
+header_pages:
+  - about.md
 
 remote_theme: wikimint/wmfw
 plugins:
