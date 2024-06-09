@@ -2,7 +2,7 @@
 layout: project
 title: 1.1.1.1 - Free public DNS resolver by Cloudflare
 link: https://one.one.one.one
-icon: chat-gpt.png
+icon: cloudflare.jpg
 cat: DNS
 type: Freeware
 tags: 
