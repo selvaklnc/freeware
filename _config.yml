@@ -25,3 +25,4 @@ remote_theme: wikimint/wmfw
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-sitemap
