@@ -14,7 +14,6 @@ tags:
   - development
   - privacy
   - security
-  - free
   - anonymous
 authors:
   - wikimint

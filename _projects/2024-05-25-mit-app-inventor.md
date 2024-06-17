@@ -7,12 +7,9 @@ icon: mit-app-inventor.jpg
 cat: Development & Programming
 type: Opensource
 tags: 
-  - MIT App Inventor
   - Mobile App Development
   - Visual Programming
   - Drag-and-Drop Interface
-  - Android Apps
-  - Educational Tools
   - Coding for Beginners
   - App Prototyping
   - Real-Time Testing

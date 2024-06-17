@@ -6,7 +6,6 @@ icon: cloudflare.jpg
 cat: DNS
 type: Freeware
 tags: 
-  - Cloudflare
   - DNS
   - Public DNS
   - Internet Security
@@ -17,7 +16,6 @@ tags:
   - DNS over HTTPS
   - DNS over TLS
   - APNIC
-  - Tech Guide
   - Web Performance
   - Cybersecurity
   - DNS Configuration

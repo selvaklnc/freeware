@@ -7,7 +7,6 @@ icon: openvpn.jpg
 cat: Internet & Network
 type: Opensource
 tags: 
-  - OpenVPN
   - VPN
   - Virtual Private Network
   - Open Source
@@ -24,7 +23,6 @@ tags:
   - Cross-Platform
   - Network Privacy
   - Data Protection
-  - Open Source Software
   - IT Infrastructure
   - Software Security
 
