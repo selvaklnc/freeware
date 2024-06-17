@@ -3,7 +3,7 @@ layout: project
 title:  MIT App Inventor - Free app Development
 link: https://appinventor.mit.edu
 canonical_url: https://appinventor.mit.edu
-icon: mi-app-inventor.jpg
+icon: mit-app-inventor.jpg
 cat: Development & Programming
 type: Opensource
 tags: 
