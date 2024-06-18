@@ -5,7 +5,7 @@ link: https://syncthing.net
 canonical_url: https://syncthing.net
 icon: syncthing-file-synchronization-program.jpg
 cat: Utilities & Tools
-type: Opensource
+type: Open-source
 tags:
   - File Synchronization
   - Decentralized Network

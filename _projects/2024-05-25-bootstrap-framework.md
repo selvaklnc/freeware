@@ -4,7 +4,7 @@ title:  "Bootstrap framework - UI development"
 link: https://getbootstrap.com/
 icon: bootstrap-framework.jpg
 cat: Framework
-type: Opensource
+type: Open-source
 tags: 
   - Frontend
   - UI

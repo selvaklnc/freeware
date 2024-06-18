@@ -5,7 +5,7 @@ link: https://openvpn.net
 canonical_url: https://openvpn.net
 icon: openvpn.jpg
 cat: Internet & Network
-type: Opensource
+type: Open-source
 tags: 
   - VPN
   - Virtual Private Network

@@ -5,7 +5,7 @@ link: https://appinventor.mit.edu
 canonical_url: https://appinventor.mit.edu
 icon: mit-app-inventor.jpg
 cat: Development & Programming
-type: Opensource
+type: Open-source
 tags: 
   - Mobile App Development
   - Visual Programming

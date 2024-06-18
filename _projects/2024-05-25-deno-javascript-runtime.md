@@ -5,7 +5,7 @@ link: https://deno.com/
 canonical_url: https://deno.com/
 icon: deno-runtime.jpg
 cat: Development Tools
-type: Opensource
+type: Open-source
 tags: 
   - JavaScript
   - TypeScript
