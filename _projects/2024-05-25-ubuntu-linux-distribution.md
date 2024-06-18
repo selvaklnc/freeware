@@ -3,6 +3,7 @@ layout: project
 title:  Ubuntu - User-friendly Linux distribution
 link: https://ubuntu.com
 canonical_url: https://ubuntu.com
+icon: ubuntu-linux-distro.jpg
 cat: Operating Systems
 type: Open-source
 tags: 
@@ -15,8 +16,6 @@ tags:
 authors:
   - wikimint
 ---
-
-## Ubuntu: A User-Friendly Linux Distribution
 
 Ubuntu, a popular open-source operating system, is known for its ease of use, stability, and robust community support. Since its first release in 2004, Ubuntu has become a leading choice for both beginners and experienced users in the Linux ecosystem.
 

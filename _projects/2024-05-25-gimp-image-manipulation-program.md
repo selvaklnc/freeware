@@ -3,6 +3,7 @@ layout: project
 title:  GIMP - Free image manipulation program
 link: https://www.gimp.org
 canonical_url: https://www.gimp.org
+icon: gimp-image-editor.jpg
 cat: Graphics & Design
 type: Open-source
 tags: 

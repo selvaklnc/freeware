@@ -3,6 +3,7 @@ layout: project
 title:  7-Zip - Free file compression tool
 link: https://www.7-zip.org
 canonical_url: https://www.7-zip.org
+icon: 7-zip-file-compression.jpg
 cat: Utilities & Tools
 type: Open-source
 tags: 

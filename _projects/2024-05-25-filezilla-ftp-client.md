@@ -2,7 +2,8 @@
 layout: project
 title:  FileZilla - Reliable FTP client solution
 link: https://filezilla-project.org
-canonical_url: https://filezilla-project.org/
+canonical_url: https://filezilla-project.org
+icon: filezilla-ftp-client.jpg
 cat: Internet & Network
 type: Open-source
 tags: 
